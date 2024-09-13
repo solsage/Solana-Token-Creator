@@ -29,4 +29,4 @@ This project contains scripts designed to help you create and manage Solana-base
 
 ## Contact
 
-For detailed instructions or assistance, please contact [@mooooh42 on Telegram](https://t.me/mooooh42).
+For detailed instructions or assistance, please contact [@Krypto_Hans on Telegram](https://t.me/Krypto_Hans).
